@@ -1,5 +1,7 @@
 .holder{
 	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
 }
 .row{
 	width:100px;
